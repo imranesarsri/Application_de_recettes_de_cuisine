@@ -1,0 +1,9 @@
+.modal-dialog {
+    max-width: 60% !important;
+}
+
+.optionAll {
+    background-color: black;
+    color: white;
+}
+
